@@ -4,3 +4,7 @@ __pycache__/
 *.sqlite
 subscriptions.db"git/" 
 "main/" 
+"subscriptions.db" 
+"*.txt" 
+"/git/" 
+"/main/" 
