@@ -30,7 +30,7 @@ def run_flask():
 def keep_alive():
     while True:
         try:
-            requests.get("https://github.com/mostafaaly816/daily-tech-news-bot.git")
+            requests.get("https://your-bot-name.onrender.com")  # استبدل your-bot-name باسم مشروعك
         except:
             pass
         time.sleep(300)  # كل 5 دقائق
